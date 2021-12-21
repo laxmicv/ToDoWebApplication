@@ -1,2 +1,2 @@
 # ToDoWebApplication
-Simple TO Do webapplication using Servlet.
+Simple To Do webapplication using Servlet.
